@@ -4,11 +4,11 @@
 <section class="bg-[#f0efeb] py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <div class="mb-24">
-      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your main home might get jealous</h2>
+      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Professional equipment meets expert craftsmanship</h2>
       <div class="h-[600px] rounded-2xl overflow-hidden relative">
         <img 
-          src="https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=2070&auto=format&fit=crop" 
-          alt="Main home jealous" 
+          src="/generated/image-professional-photo-printer-producing-hig-1765566745092-5.webp" 
+          alt="Professional equipment" 
           class="w-full h-full object-cover"
         />
       </div>
@@ -19,14 +19,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2070&auto=format&fit=crop" 
-            alt="Living room" 
+            src="/generated/image-organized-shelves-of-film-rolls-and-phot-1765566747362-6.webp" 
+            alt="Film and supplies" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Designed to live big.</h3>
+        <h3 class="text-xl font-normal mb-2">Extensive inventory.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Despite its small footprint, Backyard feels like a full-sized home, thanks to airy cathedral ceilings, well-proportioned layouts, and never built-in storage.
+          From the latest digital cameras to vintage film equipment, we stock everything you need. Our used equipment section features carefully inspected gear with detailed condition notes.
         </p>
       </div>
 
@@ -34,14 +34,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=2068&auto=format&fit=crop" 
-            alt="Kitchen" 
+            src="/generated/image-vermont-landscape-photograph-being-matte-1765566751892-8.webp" 
+            alt="Framing service" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Kitchens worth cooking in.</h3>
+        <h3 class="text-xl font-normal mb-2">Full finishing services.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Premium, fully electric, and impeccably beautiful. The induction cooktop boils water in seconds. An integrated dishwasher cleans up in silence.
+          We don't just print your photos—we help you display them beautifully. Professional matting, framing, and mounting services available for all your cherished memories.
         </p>
       </div>
     </div>
