@@ -4,7 +4,7 @@
 <section class="bg-[#f0efeb] py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <div class="mb-24">
-      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">New gear, used treasures, expert services</h2>
+      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Everything you need, right here in Vermont</h2>
       <div class="h-[600px] rounded-2xl overflow-hidden relative">
         <img 
           src="/generated/image-professional-photo-printer-producing-hig-1765566745092-5.webp" 
@@ -27,9 +27,9 @@
             Trade-ins Welcome
           </div>
         </div>
-        <h3 class="text-xl font-normal mb-2">Quality used equipment.</h3>
+        <h3 class="text-xl font-normal mb-2">Pre-loved gear with stories.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Extensive selection of professionally inspected used cameras, lenses, and accessories. Every item includes detailed condition notes. Trade in your gear for credit toward your next purchase.
+          We carefully inspect every used camera, lens, and accessory that comes through our shop. Each piece gets honest condition notes so you know exactly what you're getting. Bring in your old gear for trade-in credit.
         </p>
       </div>
 
@@ -42,9 +42,9 @@
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Latest gear & supplies.</h3>
+        <h3 class="text-xl font-normal mb-2">The latest gear you're after.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          From cutting-edge digital cameras to premium film stock, we carry top brands including Hasselblad, Carl Zeiss, and Tamron. Pre-order new releases and explore our hot deals section.
+          Whether you're shooting digital or film, we stock what you need. Hasselblad, Carl Zeiss, Tamron, and more. Check out our hot deals or pre-order the newest releases. We're happy to help you find the right fit.
         </p>
       </div>
 
@@ -57,9 +57,9 @@
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Professional services.</h3>
+        <h3 class="text-xl font-normal mb-2">We'll take care of your film.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Film processing, premium photo prints, passport photos, and complete finishing services including matting, framing, and mounting. Mail-in services available nationwide.
+          Drop off your film at our Burlington shop or mail it in from anywhere. We process film, make beautiful prints, handle passport photos, and do custom matting and framing. Your memories are in good hands.
         </p>
       </div>
     </div>

@@ -6,7 +6,7 @@
     <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-start">
       <!-- Left -->
       <div class="md:col-span-3 pt-2">
-        <p class="text-gray-500 text-lg font-light leading-tight">New & used gear,<br>expert services.</p>
+        <p class="text-gray-500 text-lg font-light leading-tight">Your local camera shop<br>since 1976.</p>
       </div>
 
       <!-- Center -->
@@ -17,12 +17,12 @@
       <!-- Right -->
       <div class="md:col-span-3 pt-4">
         <p class="text-gray-600 text-[15px] leading-relaxed mb-4">
-          Camera equipment, trade-ins,<br>
-          film processing, and premium<br>
-          photo prints.
+          We're here to help with gear,<br>
+          film processing, prints, and<br>
+          everything in between.
         </p>
         <a href="#" class="text-[13px] font-medium text-gray-900 hover:text-gray-600 transition-colors flex items-center gap-1">
-          Shop equipment <span class="text-[10px]">></span>
+          Come visit us <span class="text-[10px]">></span>
         </a>
       </div>
     </div>

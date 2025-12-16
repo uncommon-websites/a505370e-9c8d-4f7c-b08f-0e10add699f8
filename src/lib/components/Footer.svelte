@@ -5,18 +5,18 @@
   <div class="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-24">
     <div>
       <h2 class="text-[40px] font-light text-gray-900 leading-tight mb-6">
-        Your complete<br>
-        photography partner<br>
-        since 1976.
+        Nearly 50 years of<br>
+        helping photographers<br>
+        in Vermont and beyond.
       </h2>
       <a href="#" class="text-primary-600 text-2xl font-light hover:text-primary-700 transition-colors flex items-center gap-2 mb-2">
-        Shop used gear ->
+        Browse used gear ->
       </a>
       <a href="#" class="text-primary-600 text-2xl font-light hover:text-primary-700 transition-colors flex items-center gap-2 mb-4">
-        Trade in equipment ->
+        Trade in your equipment ->
       </a>
       <a href="#" class="text-gray-400 text-xs hover:text-gray-600 transition-colors">
-        Serving Vermont and photographers nationwide >
+        Visit our Burlington shop or mail in your film >
       </a>
     </div>
     
@@ -33,28 +33,28 @@
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
       <img src="/generated/image-vintage-cameras-and-photography-equipmen-1765566740706-3.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Used equipment" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Used equipment.<br>Shop inventory -></p>
+        <p class="text-white text-lg font-light">Pre-loved gear.<br>See what's in -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
       <img src="/generated/image-organized-shelves-of-film-rolls-and-phot-1765566747362-6.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="New gear" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">New gear & supplies.<br>Browse catalog -></p>
+        <p class="text-white text-lg font-light">New gear.<br>Shop now -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
       <img src="/generated/image-close-up-of-hands-holding-developed-film-1765566736334-1.webp" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Film processing" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Film processing.<br>Mail-in service -></p>
+        <p class="text-white text-lg font-light">Film processing.<br>Drop off or mail in -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
       <img src="/generated/image-beautiful-printed-photographs-laid-out-o-1765566738524-2.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Photo prints" />
       <div class="absolute inset-0 bg-primary-700/80 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Photo prints.<br>Order online -></p>
+        <p class="text-white text-lg font-light">Beautiful prints.<br>Order online -></p>
       </div>
     </div>
   </div>
@@ -97,14 +97,14 @@
     </div>
 
     <div>
-      <h3 class="font-medium text-gray-900 mb-4">Stay Connected</h3>
-      <p class="text-xs text-gray-500 mb-4">Get photography tips, special offers, and updates.</p>
+      <h3 class="font-medium text-gray-900 mb-4">Stay in touch</h3>
+      <p class="text-xs text-gray-500 mb-4">Photography tips, deals, and what's new at the shop.</p>
       <button class="w-full bg-primary-600 hover:bg-primary-700 text-white py-2 rounded text-sm font-medium transition-colors mb-4">
         Subscribe
       </button>
       
       <div class="mt-8">
-        <h4 class="font-medium text-gray-900 text-sm mb-2">Follow us</h4>
+        <h4 class="font-medium text-gray-900 text-sm mb-2">Find us online</h4>
         <div class="flex gap-3 text-gray-500">
           <a href="#" class="hover:text-gray-900">Instagram</a>
           <a href="#" class="hover:text-gray-900">Facebook</a>
