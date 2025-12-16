@@ -7,24 +7,24 @@
       <!-- Card 1 -->
       <div class="relative h-[400px] rounded-2xl overflow-hidden group cursor-pointer">
         <img 
-          src="/generated/image-camera-shop-interior-with-friendly-staff-1765566754116-9.webp" 
-          alt="Camera store" 
+          src="/generated/image-vintage-cameras-and-photography-equipmen-1765566740706-3.webp" 
+          alt="Used camera equipment" 
           class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
         />
         <div class="absolute inset-0 bg-black/20 p-8 flex flex-col justify-between">
-          <h3 class="text-white text-2xl font-light max-w-[280px]">Visit our Burlington store for expert advice. <br>Find us -></h3>
+          <h3 class="text-white text-2xl font-light max-w-[320px]">Quality used equipment with detailed condition notes. Trade-ins welcome. <br>Shop inventory -></h3>
         </div>
       </div>
 
       <!-- Card 2 -->
       <div class="relative h-[400px] rounded-2xl overflow-hidden group cursor-pointer">
         <img 
-          src="/generated/image-person-carefully-examining-film-negative-1765566749740-7.webp" 
-          alt="Film processing" 
+          src="/generated/image-camera-shop-interior-with-friendly-staff-1765566754116-9.webp" 
+          alt="Camera store" 
           class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
         />
         <div class="absolute inset-0 bg-black/20 p-8 flex flex-col justify-between">
-          <h3 class="text-white text-2xl font-light max-w-[300px]">Professional film processing with care and expertise. <br>How it works -></h3>
+          <h3 class="text-white text-2xl font-light max-w-[300px]">Visit our Burlington store for expert advice on gear and services. <br>Find us -></h3>
         </div>
       </div>
     </div>
@@ -36,12 +36,12 @@
       </div>
       
       <div class="col-span-1">
-        <p class="text-gray-600 text-sm mb-2">"The print quality is<br>absolutely stunning."</p>
+        <p class="text-gray-600 text-sm mb-2">"Bought a used Hasselblad in excellent condition. Their inspection process is thorough and honest."</p>
         <div class="flex text-gray-900 text-xs">★★★★★</div>
       </div>
 
       <div class="col-span-1">
-        <p class="text-gray-600 text-sm mb-2">"Best film processing service in Vermont.<br>They treat every roll with care!"</p>
+        <p class="text-gray-600 text-sm mb-2">"Great trade-in value on my old gear. The staff really knows their equipment and services."</p>
         <div class="flex text-gray-900 text-xs">★★★★★</div>
       </div>
     </div>

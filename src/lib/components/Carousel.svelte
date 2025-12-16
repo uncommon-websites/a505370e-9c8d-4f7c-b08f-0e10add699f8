@@ -16,7 +16,7 @@
   </div>
   
   <div class="text-center mt-4">
-    <p class="text-gray-500 text-sm mb-4">Professional services <span class="text-gray-400">Film • Prints • Equipment</span></p>
+    <p class="text-gray-500 text-sm mb-4">Complete photography solutions <span class="text-gray-400">Equipment • Trade-ins • Services</span></p>
     <div class="flex justify-center gap-2">
       <div class="w-1.5 h-1.5 rounded-full bg-gray-800"></div>
       <div class="w-1.5 h-1.5 rounded-full bg-gray-300"></div>

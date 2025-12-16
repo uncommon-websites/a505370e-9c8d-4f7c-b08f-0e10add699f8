@@ -5,22 +5,25 @@
   <div class="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-24">
     <div>
       <h2 class="text-[40px] font-light text-gray-900 leading-tight mb-6">
-        Serving Vermont<br>
-        and photographers<br>
-        nationwide. 📸
+        Your complete<br>
+        photography partner<br>
+        since 1976.
       </h2>
+      <a href="#" class="text-primary-600 text-2xl font-light hover:text-primary-700 transition-colors flex items-center gap-2 mb-2">
+        Shop used gear ->
+      </a>
       <a href="#" class="text-primary-600 text-2xl font-light hover:text-primary-700 transition-colors flex items-center gap-2 mb-4">
-        Order prints ->
+        Trade in equipment ->
       </a>
       <a href="#" class="text-gray-400 text-xs hover:text-gray-600 transition-colors">
-        Mail-in services available across the country >
+        Serving Vermont and photographers nationwide >
       </a>
     </div>
     
     <div class="h-[300px] bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 flex items-center justify-center relative">
-        <img src="/generated/image-beautiful-printed-photographs-laid-out-o-1765566738524-2.webp" class="h-[80%] object-contain" alt="Photo prints" />
+        <img src="/generated/image-vintage-cameras-and-photography-equipmen-1765566740706-3.webp" class="h-[80%] object-contain" alt="Camera equipment" />
         <div class="absolute bottom-4 right-4 bg-white border border-gray-200 rounded px-2 py-1 text-[10px] font-bold uppercase tracking-wider">
-            Premium Prints
+            Quality Used Gear
         </div>
     </div>
   </div>
@@ -28,16 +31,16 @@
   <!-- Footer Grid -->
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-24">
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-camera-shop-interior-with-friendly-staff-1765566754116-9.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Store" />
+      <img src="/generated/image-vintage-cameras-and-photography-equipmen-1765566740706-3.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Used equipment" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Visit our store.<br>Burlington, VT -></p>
+        <p class="text-white text-lg font-light">Used equipment.<br>Shop inventory -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-vintage-cameras-and-photography-equipmen-1765566740706-3.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Equipment" />
+      <img src="/generated/image-organized-shelves-of-film-rolls-and-phot-1765566747362-6.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="New gear" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Camera equipment.<br>New & used -></p>
+        <p class="text-white text-lg font-light">New gear & supplies.<br>Browse catalog -></p>
       </div>
     </div>
 
@@ -49,9 +52,9 @@
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="/generated/image-vermont-landscape-photograph-being-matte-1765566751892-8.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Framing" />
+      <img src="/generated/image-beautiful-printed-photographs-laid-out-o-1765566738524-2.webp" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Photo prints" />
       <div class="absolute inset-0 bg-primary-700/80 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Framing & finishing.<br>Learn more -></p>
+        <p class="text-white text-lg font-light">Photo prints.<br>Order online -></p>
       </div>
     </div>
   </div>
